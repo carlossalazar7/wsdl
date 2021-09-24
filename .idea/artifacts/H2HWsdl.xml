@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="H2HWsdl">
+    <output-path>$PROJECT_DIR$/out/artifacts/H2HWsdl</output-path>
+    <root id="archive" name="H2HWsdl.jar">
+      <element id="module-output" name="H2HWsdl" />
+    </root>
+  </artifact>
+</component>
